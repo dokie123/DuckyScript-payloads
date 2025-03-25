@@ -2,3 +2,14 @@ GUI r
 STRING cmd
 ENTER
 GUI UPARROW
+
+STRINGLN
+   ___________________
+  < You’ve been PWNED >
+   -------------------
+          \   ^__^
+           \  (oo)\_______
+              (__)\       )\/\
+                  ||----w |
+                  ||     ||
+END_STRINGLN
