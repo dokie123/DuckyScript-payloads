@@ -1,1 +1,4 @@
-
+GUI r
+STRING cmd
+ENTER
+GUI UPARROW
